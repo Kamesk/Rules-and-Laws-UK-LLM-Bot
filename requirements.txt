@@ -1,0 +1,17 @@
+pandas
+numpy
+langchain
+langchain-community
+langchain-core
+ctransformers
+sentence-transformers
+pypdf
+fastapi
+aiofiles
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+-e .
