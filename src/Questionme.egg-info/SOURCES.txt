@@ -1,0 +1,5 @@
+setup.py
+src/Questionme.egg-info/PKG-INFO
+src/Questionme.egg-info/SOURCES.txt
+src/Questionme.egg-info/dependency_links.txt
+src/Questionme.egg-info/top_level.txt
