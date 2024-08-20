@@ -35,9 +35,9 @@ Driving Rules:
   Driving license requirements UK : https://assets.publishing.service.gov.uk/media/6603f95cf9ab41001aeea361/ins57p-information-on-driving-licences.pdf, https://researchbriefings.files.parliament.uk/documents/SN00311/SN00311.pdf
   UK speeding fines and penalties : https://researchbriefings.files.parliament.uk/documents/CBP-8737/CBP-8737.pdf
 
+ 
+Version 1.2:
 
-  <!-- Version 1.2: -->
-<!-- 
 Visa Rules:
   UK visa application guidelines
   UK immigration rules
@@ -110,4 +110,4 @@ Environmental Regulations:
   Energy-saving tips UK
   UK water usage regulations
   Environmental protection laws UK
-  Green initiatives in the UK -->
+  Green initiatives in the UK 
