@@ -1,17 +1,3 @@
-![
-  
-](05_Model_pusher.png) ![
-  
-](01_Data_Ingestion.png) ![
-  
-](<1_Folder Structure.png>) ![
-  
-](02_Data_transformation.png) ![
-  
-](03_Model_trainer.png) ![
-  
-](04_Model_evaluation.png)
-
 Project = Multi Source LLM Questionaire bot, Experimenting with Various LLms. 
 
 10 Step Questions to Understand the User_requirement and optimized to respond with temperature=01.
