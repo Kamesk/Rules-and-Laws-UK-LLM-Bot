@@ -14,4 +14,6 @@ python-multipart
 PyPDF2
 faiss-cpu
 python-dotenv
+llama-cpp-python
+torch
 -e .
