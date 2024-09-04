@@ -16,4 +16,7 @@ faiss-cpu
 python-dotenv
 llama-cpp-python
 torch
+setuptools
+flask
+
 -e .
